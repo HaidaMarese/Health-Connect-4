@@ -92,7 +92,8 @@ Health-Connect is a healthcare appointment scheduling app designed to simplify t
 
 ## Wireframes
 
-![Wireframes Screenshot](![image](https://github.com/user-attachments/assets/2acc09e9-a6cf-47b8-879a-6b7b9072e12f))
+![image](https://github.com/user-attachments/assets/e5ff81ba-f476-488e-9242-eb5b7b47f6ab)
+
 
 
 ---
