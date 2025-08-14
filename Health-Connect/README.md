@@ -118,9 +118,3 @@ Health-Connect is a healthcare appointment scheduling app designed to simplify t
 - **PUT /appointments/{id}:** Update an existing appointment.
 - **DELETE /appointments/{id}:** Cancel an appointment.
 
-
-## Video Walkthrough
-
-
-[Guide] : https://youtu.be/DoYdCoHFREY
-
